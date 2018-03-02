@@ -6,5 +6,6 @@ NOTE: These are rough notes taken during class, and not for publication/consumpt
 
 |Date|Lecture Title|Lecture Notes|
 |:--:|:------------|:-----------:|
-|1/19/18|Introduction and Discussion - What is Science? What is Technology? What is Sociology of Science and Technology?|[Lecture 1 Notes](Lecture1.md)
-|1/26/18|What is special about Science and Basic Science?|[Lecture 2 Notes](Lecture2.md)
+|1/19/18|Introduction and Discussion - What is Science? What is Technology? What is Sociology of Science and Technology?|[Lecture 1 Notes](Lecture1.md)|
+|1/26/18|What is special about Science and Basic Science?|[Lecture 2 Notes](Lecture2.md)|
+|3/2/18|Old and New Science - Small vs. Big Science|[Lecture 6 Notes](Lecture6.md)|
